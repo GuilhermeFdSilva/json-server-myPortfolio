@@ -26,7 +26,7 @@
             "linkPG": ""
         },
         {
-            "title": "Treinamentos - Java Micro Edition",
+            "title": "Java Micro Edition",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-android.jpeg",
             "desc": "Treinamentos e projetos realizados durante o curso de desenvolvimento mobile. Esse repositório inclui projetos feitos em Java e que também utilizam SQLite.",
             "mainLanguage": "Java",
@@ -53,7 +53,7 @@
             "linkPG": "http://antiquary-deploy.s3-website-sa-east-1.amazonaws.com"
         },
         {
-            "title": "Treinamento módulo 3 - Start Tech",
+            "title": "Módulo 3 - Start Tech",
             "img": "",
             "desc": "Projeto desenvolvido em Angular, parte do treinamento do curso Start Tech. O intuito dessa página é a divulgação de imoveis a venda.",
             "mainLanguage": "Angular",
@@ -81,7 +81,7 @@
             "linkPG": ""
         },
         {
-            "title": "Treinamento módulo 2 - Start Tech",
+            "title": "Módulo 2 - Start Tech",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-TModulo2.png",
             "desc": "Projeto desenvolvido em HTML, como parte do treinamento do curso Start Tech. Inclui duas páginas com desafios propostos durante as aulas.",
             "mainLanguage": "HTML",
@@ -107,7 +107,7 @@
             "linkPG": "https://guilhermefdsilva.github.io/STARTTech/Modulo-02/JogoDaForca/index.html"
         },
         {
-            "title": "Treinamento módulo 1 - Start Tech",
+            "title": "Módulo 1 - Start Tech",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-TModulo1.png",
             "desc": "Projeto desenvolvido em HTML, como parte do treinamento do curso Start Tech. O objetivo do projeto é a divulgação de itens de tricô à venda para a lojinha da Maria.",
             "mainLanguage": "HTML",
@@ -133,7 +133,7 @@
             "linkPG": "https://guilhermefdsilva.github.io/STARTTech/Modulo-01/Projeto-01/index.html"
         },
         {
-            "title": "Primeiro App - Java Micro Edition",
+            "title": "Primeiro App",
             "img": "",
             "desc": "Projeto desenvolvido em Angular para conclusão do módulo 03 no curso Start Tech. O intuito desta página é a divulgação de animes.",
             "mainLanguage": "Java",
