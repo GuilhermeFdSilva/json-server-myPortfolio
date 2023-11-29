@@ -196,9 +196,10 @@
             "mainLanguage": "HTML",
             "tools": [
                 "HTML",
+                "CSS",
+                "JavaScript",
                 "C",
-                "Python",
-                "CSS"
+                "Python"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/CS50",
             "linkPG": ""
