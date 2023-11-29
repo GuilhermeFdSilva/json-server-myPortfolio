@@ -1,7 +1,7 @@
 {
     "projects": [{
             "title": "Meu portfólio",
-            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-portifolio.png",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-portfolio.png",
             "desc": "O portfólio onde você se encontra agora, ele foi desenvolvido em Angular com intuito de expor meus projetos de uma maneira fácil de se utilizar. Além do Angular também é utilizado um banco de dados (somente leitura) armazenado no gitHub pages.",
             "mainLanguage": "Angular",
             "tools": [
