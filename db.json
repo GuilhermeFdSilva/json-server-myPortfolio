@@ -75,7 +75,8 @@
                 "Angular",
                 "TypeScript",
                 "HTML",
-                "SASS"
+                "SASS",
+                "Bootstrap"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/Projeto-modulo-03",
             "linkPG": ""
@@ -113,8 +114,7 @@
             "mainLanguage": "HTML",
             "tools": [
                 "HTML",
-                "CSS",
-                "JavaScript"
+                "CSS"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/STARTTech",
             "linkPG": "https://guilhermefdsilva.github.io/STARTTech/Modulo-01/LojinhaDaMaria/index.html"
@@ -126,8 +126,7 @@
             "mainLanguage": "HTML",
             "tools": [
                 "HTML",
-                "CSS",
-                "JavaScript"
+                "CSS"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/STARTTech",
             "linkPG": "https://guilhermefdsilva.github.io/STARTTech/Modulo-01/Projeto-01/index.html"
@@ -135,7 +134,7 @@
         {
             "title": "Primeiro App",
             "img": "",
-            "desc": "Projeto desenvolvido em Angular para conclusão do módulo 03 no curso Start Tech. O intuito desta página é a divulgação de animes.",
+            "desc": "Projeto desenvolvido em Java Micro Edition. Esse aplicativo básico, foi desenvolvido para iniciação do curso de Java Mobile.",
             "mainLanguage": "Java",
             "tools": [
                 "Java"
@@ -151,7 +150,7 @@
             "tools": [
                 "HTML",
                 "CSS",
-                "JavaScript"
+                "Bootstrap"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/ProjetoIntegrador-01",
             "linkPG": "https://guilhermefdsilva.github.io/ProjetoIntegrador-01/"
@@ -212,7 +211,8 @@
             "tools": [
                 "HTML",
                 "CSS",
-                "JavaScript"
+                "JavaScript",
+                "Bootstrap"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/CursoIOS",
             "linkPG": ""
