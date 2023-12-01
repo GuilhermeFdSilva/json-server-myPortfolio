@@ -2,6 +2,7 @@
     "projects": [{
             "id": 1,
             "title": "Meu portfólio",
+            "nameGH": "MyPortfolio",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-portfolio.png",
             "desc": "O portfólio onde você se encontra agora, ele foi desenvolvido em Angular com intuito de expor meus projetos de uma maneira fácil de se utilizar. Além do Angular também é utilizado um banco de dados (somente leitura) armazenado no gitHub pages.",
             "mainLanguage": "Angular",
@@ -17,6 +18,7 @@
         {
             "id": 2,
             "title": "FaturApp Micro",
+            "nameGH": "FaturAppMicro",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-faturAppMicro.png",
             "desc": "Projeto desenvolvido em Java com o SQLite, esse aplicativo tem o intuito de facilitar o gerenciamento de contas a pagar e a receber, assim como clientes, de micro empresários.",
             "mainLanguage": "Java",
@@ -30,6 +32,7 @@
         {
             "id": 3,
             "title": "Java Micro Edition",
+            "nameGH": "JME-Treinamentos",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-android.jpeg",
             "desc": "Treinamentos e projetos realizados durante o curso de desenvolvimento mobile. Esse repositório inclui projetos feitos em Java e que também utilizam SQLite.",
             "mainLanguage": "Java",
@@ -43,6 +46,7 @@
         {
             "id": 4,
             "title": "Projeto final - Start Tech",
+            "nameGH": "ProjetoFinal-StartTech",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-antiquary.png",
             "desc": "Projeto desenvolvido em Angular, como TCC do curso de front-end Start Tech. O intuito dessa pagina é aproximar pessoas e vendedores com interesse em antiguidades.",
             "mainLanguage": "Angular",
@@ -59,6 +63,7 @@
         {
             "id": 5,
             "title": "Módulo 3 - Start Tech",
+            "nameGH": "StartTech-modulo03",
             "img": "",
             "desc": "Projeto desenvolvido em Angular, parte do treinamento do curso Start Tech. O intuito dessa página é a divulgação de imoveis a venda.",
             "mainLanguage": "Angular",
@@ -74,6 +79,7 @@
         {
             "id": 6,
             "title": "Projeto módulo 3 - Start Tech",
+            "nameGH": "Projeto-modulo-03",
             "img": "",
             "desc": "Projeto desenvolvido em Angular para conclusão do módulo 03 no curso Start Tech. O intuito desta página é a divulgação de animes.",
             "mainLanguage": "Angular",
@@ -90,6 +96,7 @@
         {
             "id": 7,
             "title": "Módulo 2 - Start Tech",
+            "nameGH": "STARTTech",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-TModulo2.png",
             "desc": "Projeto desenvolvido em HTML, como parte do treinamento do curso Start Tech. Inclui duas páginas com desafios propostos durante as aulas.",
             "mainLanguage": "HTML",
@@ -104,6 +111,7 @@
         {
             "id": 8,
             "title": "Projeto módulo 2 - Start Tech",
+            "nameGH": "STARTTech",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-PModulo2.png",
             "desc": "Projeto desenvolvido em HTML para conclusão do módulo 02 no curso Start Tech. O projeto consiste em um jogo da forca feito em JavaScript.",
             "mainLanguage": "HTML",
@@ -118,6 +126,7 @@
         {
             "id": 9,
             "title": "Módulo 1 - Start Tech",
+            "nameGH": "STARTTech",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-TModulo1.png",
             "desc": "Projeto desenvolvido em HTML, como parte do treinamento do curso Start Tech. O objetivo do projeto é a divulgação de itens de tricô à venda para a lojinha da Maria.",
             "mainLanguage": "HTML",
@@ -131,6 +140,7 @@
         {
             "id": 10,
             "title": "Projeto módulo 1 - Start Tech",
+            "nameGH": "STARTTech",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-PModulo1.png",
             "desc": "Projeto desenvolvido em HTML para conclusão do módulo 01 no curso Start Tech. O projeto consiste em uma loja de eletrônicos.",
             "mainLanguage": "HTML",
@@ -144,6 +154,7 @@
         {
             "id": 11,
             "title": "Primeiro App",
+            "nameGH": "JME-PrimeiroApp",
             "img": "",
             "desc": "Projeto desenvolvido em Java Micro Edition. Esse aplicativo básico, foi desenvolvido para iniciação do curso de Java Mobile.",
             "mainLanguage": "Java",
@@ -156,6 +167,7 @@
         {
             "id": 12,
             "title": "Projeto Integrador ADS",
+            "nameGH": "ProjetoIntegrador-01",
             "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-PIntegrador1.png",
             "desc": "Projeto desenvolvido em HTML para conclusão do primeiro semestre da faculdade de Análise e Desenvolvimento de Sistemas.",
             "mainLanguage": "HTML",
@@ -170,6 +182,7 @@
         {
             "id": 13,
             "title": "Estudos Java",
+            "nameGH": "EstudoJava",
             "img": "",
             "desc": "Conjunto de projetos desenvolvidos em Java durante o curso 'Java do zero ao profissional'. Os projetos abrangem desde conceitos mais básicos até os mais avançados de Java.",
             "mainLanguage": "Java",
@@ -182,6 +195,7 @@
         {
             "id": 14,
             "title": "Projeto Campo minado",
+            "nameGH": "Projeto1-CampoMinado",
             "img": "",
             "desc": "Projeto desenvolvido em Java durante o curso 'Java do zero ao profissional'. O projeto consiste em um jogo de campo minado utilizando o Swing para a criação de interfaces.",
             "mainLanguage": "Java",
@@ -194,6 +208,7 @@
         {
             "id": 15,
             "title": "Projeto Calculadora",
+            "nameGH": "Projeto2-Calculadora",
             "img": "",
             "desc": "Projeto desenvolvido em Java durante o curso 'Java do zero ao profissional'. O projeto consiste em uma calculadora de operações básicas utilizando o Swing para a criação de interfaces.",
             "mainLanguage": "Java",
@@ -206,6 +221,7 @@
         {
             "id": 16,
             "title": "CS50",
+            "nameGH": "CS50",
             "img": "",
             "desc": "Conjunto de projetos em diversas linguagens de programação. Todo o conteúdo deste repositório foi produzido durante as aulas do curso CS50 de Harvard, disponibilizado pela Fundação Estudar para o Brasil.",
             "mainLanguage": "HTML",
@@ -222,6 +238,7 @@
         {
             "id": 17,
             "title": "Curso IOS",
+            "nameGH": "CursoIOS",
             "img": "",
             "desc": "Conjunto de projetos e treinamentos realizados durante o curso de Tecnologia e Cultura Digitais no IOS (Instituto da Oportunidade Social).",
             "mainLanguage": "HTML",
@@ -237,6 +254,7 @@
         {
             "id": 18,
             "title": "SQL",
+            "nameGH": "SQL",
             "img": "",
             "desc": "Conjunto de códigos desenvolvidos para o treinamento de operações em bancos de dados relacionais SQL.",
             "mainLanguage": "SQL",
