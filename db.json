@@ -255,7 +255,7 @@
             "id": 18,
             "title": "SQL",
             "nameGH": "SQL",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-sql.jpeg",
             "desc": "Conjunto de códigos desenvolvidos para o treinamento de operações em bancos de dados relacionais SQL.",
             "mainLanguage": "SQL",
             "tools": [
