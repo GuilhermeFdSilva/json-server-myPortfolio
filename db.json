@@ -209,7 +209,7 @@
             "id": 15,
             "title": "Projeto Calculadora",
             "nameGH": "Projeto2-Calculadora",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-PCalculadora.png",
             "desc": "Projeto desenvolvido em Java durante o curso 'Java do zero ao profissional'. O projeto consiste em uma calculadora de operações básicas utilizando o Swing para a criação de interfaces.",
             "mainLanguage": "Java",
             "tools": [
