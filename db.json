@@ -64,7 +64,7 @@
             "id": 5,
             "title": "Módulo 3 - Start Tech",
             "nameGH": "StartTech-modulo03",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-TModulo3.png",
             "desc": "Projeto desenvolvido em Angular, parte do treinamento do curso Start Tech. O intuito dessa página é a divulgação de imoveis a venda.",
             "mainLanguage": "Angular",
             "tools": [
@@ -74,7 +74,7 @@
                 "SASS"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/StartTech-modulo03",
-            "linkPG": ""
+            "linkPG": "http://lar-feliz-deploy.s3-website-sa-east-1.amazonaws.com/home"
         },
         {
             "id": 6,
