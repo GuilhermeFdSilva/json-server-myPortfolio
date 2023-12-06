@@ -80,7 +80,7 @@
             "id": 6,
             "title": "Projeto módulo 3 - Start Tech",
             "nameGH": "Projeto-modulo-03",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-PModulo3.png",
             "desc": "Projeto desenvolvido em Angular para conclusão do módulo 03 no curso Start Tech. O intuito desta página é a divulgação de animes.",
             "mainLanguage": "Angular",
             "tools": [
@@ -91,7 +91,7 @@
                 "Bootstrap"
             ],
             "linkGH": "https://github.com/GuilhermeFdSilva/Projeto-modulo-03",
-            "linkPG": ""
+            "linkPG": "http://anime-zone-deploy.s3-website-sa-east-1.amazonaws.com/home"
         },
         {
             "id": 7,
