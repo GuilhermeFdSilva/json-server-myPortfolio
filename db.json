@@ -155,7 +155,7 @@
             "id": 11,
             "title": "Primeiro App",
             "nameGH": "JME-PrimeiroApp",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-primeiroApp.jpeg",
             "desc": "Projeto desenvolvido em Java Micro Edition. Esse aplicativo básico, foi desenvolvido para iniciação do curso de Java Mobile.",
             "mainLanguage": "Java",
             "tools": [
