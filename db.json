@@ -183,7 +183,7 @@
             "id": 13,
             "title": "Estudos Java",
             "nameGH": "EstudoJava",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-java.png",
             "desc": "Conjunto de projetos desenvolvidos em Java durante o curso 'Java do zero ao profissional'. Os projetos abrangem desde conceitos mais básicos até os mais avançados de Java.",
             "mainLanguage": "Java",
             "tools": [
