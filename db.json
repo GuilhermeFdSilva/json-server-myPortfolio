@@ -196,7 +196,7 @@
             "id": 14,
             "title": "Projeto Campo minado",
             "nameGH": "Projeto1-CampoMinado",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-PCampoMinado.png",
             "desc": "Projeto desenvolvido em Java durante o curso 'Java do zero ao profissional'. O projeto consiste em um jogo de campo minado utilizando o Swing para a criação de interfaces.",
             "mainLanguage": "Java",
             "tools": [
