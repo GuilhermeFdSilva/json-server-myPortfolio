@@ -222,7 +222,7 @@
             "id": 16,
             "title": "CS50",
             "nameGH": "CS50",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-cs50.png",
             "desc": "Conjunto de projetos em diversas linguagens de programação. Todo o conteúdo deste repositório foi produzido durante as aulas do curso CS50 de Harvard, disponibilizado pela Fundação Estudar para o Brasil.",
             "mainLanguage": "HTML",
             "tools": [
@@ -240,7 +240,7 @@
             "id": 17,
             "title": "Curso IOS",
             "nameGH": "CursoIOS",
-            "img": "",
+            "img": "https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/img-cursoIOS.jpeg",
             "desc": "Conjunto de projetos e treinamentos realizados durante o curso de Tecnologia e Cultura Digitais no IOS (Instituto da Oportunidade Social).",
             "mainLanguage": "HTML",
             "tools": [
